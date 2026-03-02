@@ -35,36 +35,37 @@ Explica el flujo de forma ordenada: a
 - https://aws.amazon.com/sagemaker/
 
 ## 4) IA aplicada: modelo y decisión
-- Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):
-- Entrada del modelo (qué datos usa):
-- Salida del modelo (qué produce):
-- Decisión que habilita (qué hace la empresa con esa salida):
+- Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...): Sistemas de recomendación y predicción de demanda.
+- Entrada del modelo (qué datos usa): Historial de compras, clics, búsquedas, valoraciones
+- Salida del modelo (qué produce): Productos recomendados y previsión de demanda futura
+- Decisión que habilita (qué hace la empresa con esa salida): 	Ajuste dinámico de inventario y personalización de la web en tiempo real
 
 ## 5) Rentabilidad: KPIs antes/después (mínimo 3)
-KPI 1 (ingresos/coste/eficiencia):
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 1 (ingresos/coste/eficiencia): Ratio de conversion 
+- Antes: Recomendaciones genéricas
+- Después: REcomendaciones personalizadas
+- Por qué mejora la rentabilidad: Más compras por usuario
 
-KPI 2:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 2: Costes de almacenamiento
+- Antes: Exceso o falta de stock
+- Después: Predicción ajustada de demanda
+- Por qué mejora la rentabilidad:Menos inventario inmovilizado
 
-KPI 3:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 3: Tiempo medio de entrega 
+- Antes: Planificación menos pesada
+- Después: Logística optimizada con IA 
+- Por qué mejora la rentabilidad: mayor satisfacción de clientes y aumento de la fidelidad de los mismos
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
-(Pega aquí el diagrama)
-
+Usuarios → Captura de eventos (Kinesis) → limpieza y transformación → almacenamiento en Data Lake y Data Warehouse (Redshift) → preparación de variables → modelo IA → recomendaciones y predicción de demanda → optimización de inventario y ventas
 ## 7) Riesgos y mitigación
-Riesgo 1:
-- Mitigación 1:
+Riesgo 1: Sesgo algorítmico
+- Mitigación 1: MOnitorización continua de modelos
 
-Riesgo 2:
-- Mitigación 2:
+Riesgo 2: Privacidad de datos
+- Mitigación 2: Encriptación y cumplimiento normativo (RGPD) 
+
+- https://aws.amazon.com/compliance/gdpr-center/
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
 - Importancia actual (hoy):
