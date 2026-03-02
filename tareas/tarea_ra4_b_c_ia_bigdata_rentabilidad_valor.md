@@ -20,7 +20,7 @@
 - https://www.amazon.science/tag/recommendation-systems
 
 ## 3) Tratamiento/análisis: pipeline de datos
-Explica el flujo de forma ordenada: 
+Explica el flujo de forma ordenada: a
  Los datos de usuario se capturan en tiempo real, posteriormente en el paso 2 se limpian, transforman y almacenan en la nube para poder utilizarlos 
  y por último se preparan variables y se usan modelos de IA para recomendar y predecir la demanda. 
 
