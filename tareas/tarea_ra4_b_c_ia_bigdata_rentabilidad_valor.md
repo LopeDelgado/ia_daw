@@ -1,4 +1,4 @@
-# Práctica IA (RA4 · b+c) — Big Data, análisis, rentabilidad y valoración IA
+# Práctica IA (RA4 · b+c) — Big Data, análisis, rentabilidad y valoración IA 
 
 ## 1) Caso y objetivo de negocio
 - Empresa/sector (real o ficticia): Amazon, sector de comercio electrónico y logística.
@@ -68,11 +68,14 @@ Riesgo 2: Privacidad de datos
 - https://aws.amazon.com/compliance/gdpr-center/
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
-- Importancia actual (hoy):
-- Importancia futura (3–5 años):
-- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo):
-- Conclusión razonada:
+- Importancia actual (hoy): La IA es el núcleo que permite personalizzción masiva y logística, convirtiendo amazon en un catálogo mas predictivo.
+- Importancia futura (3–5 años): Mayor automatización en almacenes, modelos mas precisos de prevision y uso creciente de IA para atender clientes. 
+- Condiciones/limitacione: Dependencia de datos de calidad, altos costes de infraestructura cloud, regulación creciente y riesgos estéticos
+- Conclusión razonada: La IA no es un complemento en Amazon y su implementacion podria marcar la diferencia frente a otras empresas del e-commerce
+
+- https://aws.amazon.com/machine-learning/
+- https://aws.amazon.com/ai/
 
 ## 9) Fuentes oficiales (mín. 2)
-- Big Data/analítica (enlace oficial):
-- IA/técnica/modelo (enlace oficial):
+- Big Data/analítica (enlace oficial): -https://aws.amazon.com/big-data/
+- IA/técnica/modelo (enlace oficial): - https://aws.amazon.com/machine-learning/
