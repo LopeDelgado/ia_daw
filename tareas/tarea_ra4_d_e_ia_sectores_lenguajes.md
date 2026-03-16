@@ -102,3 +102,8 @@ Sanidad --> Lenguaje: Python
 
 ## 8) Fuentes oficiales (mín. 2)
 
+- https://smartdev.com/fr/ai-use-cases-in-different-industries/
+- https://iceteasoftware.com/ai-in-finance-healthcare-retail/
+- https://www.ibm.com/es-es/topics/artificial-intelligence
+
+
