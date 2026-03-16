@@ -39,49 +39,66 @@
 ## 3) Lenguajes de programación en IA
 
 ### Lenguaje 1
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+- Nombre:Phyton 
+- Uso principal en IA: Desarrollo de proyectos machine learning, deep learning o anàlisis de datos
+- Ventajas: Syntaxis sencilla y gran cantidad de librerias. 
+- Ejemplos de uso: Sistema de recomendacion, chatbots y analisis de datos
 
 ### Lenguaje 2
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+- Nombre: Java 
+- Uso principal en IA: Desarrollo de aplicaciones empresariales con integracion de IAz
+- Ventajas: Gran rendimiento, multiplataforma, y muy usado en grandes empresas
+- Ejemplos de uso: Sistemas de analisis de datos, apps bancarias con analisis de fraudes. 
 
 ### Lenguaje 3
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+- Nombre: R
+- Uso principal en IA: Analisis estadistico y procesamiento de datos
+- Ventajas: Gran capacidad para nalizar estadisticas, y visualizar datos 
+- Ejemplos de uso: Prediccion de datos, analisis de tendencias y estudios cientificos
 
 ### Lenguaje 4
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+- Nombre: C++ 
+- Uso principal en IA: Desarrollo de algoritmos de alto rendimiento y sistemas que requieren mucha velocidad
+- Ventajas: MUy rapido y eficiente en el manejo de recursos 
+- Ejemplos de uso: Motores de IA, vision artificial y robótica. 
+
 
 ## 4) Relación entre sectores, tipo de IA y lenguaje
 | Sector | Aplicación de IA | Tipo de IA/técnica | Lenguaje recomendado | Justificación |
 |--------|------------------|--------------------|----------------------|---------------|
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
+|Fianzas   | Deteccion de fraude  |  Maching learning |  Phyton         | Permite analizar grandes cantidades de datos y detectar patrones sospechosos              |
+|Comercio  | Recomendacion de productos | Sistemas de recomendación   | Phyton / Java  |  Se usan  para analizar comportamiento de usuarioy mejorar las ventas               |
+|Sanidad   | Diagnóstico por imagen  | Deep Learning |  Phyton     | Librerias como TensorFlow permiten analizar imagenes medicas |
+
+
+- https://www.altexsoft.com/static/blog-post-file/2023/10/e2f72737-f13f-4499-a4c1-5a28989a1fb1.pdf 
 
 ## 5) Diagrama (ASCII o Mermaid)
-(Pega aquí el diagrama)
+Inteligencia Artificial en fianza: 
+Finanzas --> Detección de fraude
+Finanzas --> Análisis de riesgos
+Finanzas --> Lenguaje: Python
+
+Inteligencia Artificial --> Comercio:
+Comercio --> Recomendación de productos
+Comercio --> Predicción de demanda
+Comercio --> Lenguajes: Python / Java
+
+Inteligencia Artificial --> Sanidad:
+Sanidad --> Diagnóstico por imagen
+Sanidad --> Predicción de enfermedades
+Sanidad --> Lenguaje: Python
 
 ## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- Riesgo 1: Uso incorrecto de datos personales o falta de priivacidad
+- Mitigación 1: Aplicar normas de proteccion de datos
+- Riesgo 2: Decisiones incorrectas de la IA debido a datos sesgados
+- Mitigación 2: Entrenar modelos con datos variados y supervision humana
 
 ## 7) Conclusión
-- Qué sectores destacan más:
-- Qué lenguajes aparecen con más frecuencia:
-- Qué importancia tiene esto para DAW/DAM:
+- Qué sectores destacan más: Fianzas, comercio y sanidad son algunos de los sectores donde la IA tiene mayor inpacto por la gran cantidad de datos que manejan
+- Qué lenguajes aparecen con más frecuencia: Phyton es el lenguaje mas utilizado para el uso de IA debido a su facilidad y capacidad
+- Qué importancia tiene esto para DAW/DAM: Los desarrolladores pueden integrar IA en aplicaciones WEB o moviles para crear sistemas mas inteligentes, automatizados y capaces de recopilar datos
 
 ## 8) Fuentes oficiales (mín. 2)
 
