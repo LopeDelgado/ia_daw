@@ -57,9 +57,13 @@ Frontend --> Usuario recibe recomendaciones
 
 
 ## 7) Riesgos
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- Riesgo 1: Uso de datos personales ( riesgo en la privacidad)
+- Mitigación 1: Cumplir RGPD y anonimizar datos
+- Riesgo 2: Predicciones incorrectas
+- Mitigación 2: Entrenar el modelo de IA y mejorar lo datos
 
 ## 8) Fuente
+
+- Sistemas de recomendacion 
+- Netflix Help Center 
+- https://www.tensorflow.org/resources/recommendation-systems?utm_source 
